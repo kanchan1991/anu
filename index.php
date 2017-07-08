@@ -3,8 +3,8 @@
 <?php //echo $_SERVER["DOCUMENT_ROOT"];exit;?>
 
 
-<?php include $_SERVER["DOCUMENT_ROOT"] . '/PhpProject5/inc/head.php'; ?>
-<?php include $_SERVER["DOCUMENT_ROOT"] . '/PhpProject5/inc/menu.php'; ?>
+<?php include $_SERVER["DOCUMENT_ROOT"] . '/PhpProject3/inc/head.php'; ?>
+<?php include $_SERVER["DOCUMENT_ROOT"] . '/PhpProject3/inc/menu.php'; ?>
 <!--Page info-->
 <?php
 
@@ -20,5 +20,5 @@
 
 
 <!--footer-->
-<?php include $_SERVER["DOCUMENT_ROOT"] . '/PhpProject5/inc/footer.php'; ?>
+<?php include $_SERVER["DOCUMENT_ROOT"] . '/PhpProject3/inc/footer.php'; ?>
 

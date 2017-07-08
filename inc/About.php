@@ -29,9 +29,9 @@
 
             <div class="projects">
                 <a href="/Gallery" class="navlink txtbtn">Gallery</a><br>
-                <a href="/http://www.anuupadhyay.in/blog" class="navlink txtbtn">Blog</a><br>
+                <a href="http://www.anuupadhyay.in/blog" class="navlink txtbtn">Blog</a><br>
                 <a href="/About" class="navlink txtbtn">About Me</a><br>
-                <a href="/https://www.youtube.com/channel/UCwOW7pJ6DEwGneTnLsVTvGw" class="navlink txtbtn">Video</a><br>
+                <a href="https://www.youtube.com/channel/UCwOW7pJ6DEwGneTnLsVTvGw" class="navlink txtbtn">Video</a><br>
             </div>
 
             <div class="subnav">
@@ -156,7 +156,7 @@
 
     </div>
 
-    <script type="text/javascript" src="/PhpProject5/bundle.js"></script>
+    <script type="text/javascript" src="/bundle.js"></script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
